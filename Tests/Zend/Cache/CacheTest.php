@@ -1,5 +1,5 @@
 <?php
-namespace Tests\Zend\Validate;
+namespace Tests\Zend\Cache;
 
 class CacheTest extends \Tests\TestCase
 {
