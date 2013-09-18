@@ -2,6 +2,7 @@
     "name": "hearstuk/zf1-component-cache",
     "description": "The Zend_Cache component from Zend Framework 1.12 abstracted out for use with composer.",
     "homepage": "http://github.com/joegreen88/zf1-component-cache",
+    "license": "MIT",
     "authors": [
         {
             "name": "Joe Green",
